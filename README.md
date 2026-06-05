@@ -1,0 +1,3 @@
+Siguiendo el sistema de FAIR de publicación en abierto se
+pueden acceder a los ficheros empleados  para el cálculo (los  1000 primeros) en:
+https://zenodo.org/records/20555141?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjA5MTllODExLTJmNDItNDk4OS04YzE0LWM3ZTA4ZGNkMzZjYiIsImRhdGEiOnt9LCJyYW5kb20iOiJlODQ4ZTJkM2QxOThmMTU1OTVjZGE2NGRiOTEwYWIyNCJ9.H4HmIdCKiLJzygGA904jJ8V1NfC6q7Zzxsfq2BatEBgAyuGwqmltpRVTyX-oBf4YQb-OYiZztUvB6v7tLx2i1w
